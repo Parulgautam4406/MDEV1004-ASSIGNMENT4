@@ -4,7 +4,7 @@ interface Configuration {
   }
   
   const config: Configuration = {
-    mongoURI: process.env.MONGODB_URI || 'mongodb+srv://suraj_v:zoCy3qRgV46tkFgB@cluster0.botqmpn.mongodb.net/',
+    mongoURI: process.env.MONGODB_URI || 'mongodb+srv://parulgautam4406:cN0AcWQk9MmWXn19@moviecluster.fjrkxch.mongodb.net/movies',
     port: process.env.PORT || '3000'
   };
   
