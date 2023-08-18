@@ -1,5 +1,5 @@
 {
-  "name": "musician-api",
+  "name": "movies-api",
   "version": "1.0.0",
   "description": "API project for performing curd operations.",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Parul Gautam",
   "license": "ISC",
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
